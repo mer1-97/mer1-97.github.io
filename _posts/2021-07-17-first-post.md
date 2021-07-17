@@ -3,7 +3,7 @@ title: 블로그 이사
 author: Mer1
 date: 2021-07-17 18:33:00 +0900
 categories: [Blogging, Etc]
-tags: [typography]
+#tags: [typography]
 math: true
 mermaid: true
 comments: true
