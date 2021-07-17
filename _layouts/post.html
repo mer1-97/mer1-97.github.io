@@ -1,7 +1,6 @@
 ---
 layout: default
 # The posts' layout
-comments: true
 ---
 
 <div class="row">
@@ -113,6 +112,8 @@ comments: true
 
   {% include panel.html toc=enable_toc %}
 
+  {% assign paeg.comments = true %}
+  
   {% if page.comments != false %}
 	  {% include disqus_comments.html %}
   {% endif %}  
