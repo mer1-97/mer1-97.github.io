@@ -1,16 +1,18 @@
 ---
-title: Test
+title: 블로그 이사
 author: Mer1
 date: 2021-07-17 2:33:00 +0900
 categories: [Blogging, Demo]
 tags: [typography]
 math: true
 mermaid: true
-image:
-  src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
-  width: 850
-  height: 585
+comments: true
 ---
+
+안녕하세요. Mer1입니다.
+기존에 네이버, 티스토리, velog 블로그를 운영하다가 여러가지 불편함으로 인해 github pages로 옮기게 되었습니다.
+해당 테마는 댓글 기능이 
+
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
