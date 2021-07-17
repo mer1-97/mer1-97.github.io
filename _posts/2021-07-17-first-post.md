@@ -1,7 +1,7 @@
 ---
 title: Test
 author: Mer1
-date: 2021-07-17 11:33:00 +0900
+date: 2021-07-17 2:33:00 +0900
 categories: [Blogging, Demo]
 tags: [typography]
 math: true
