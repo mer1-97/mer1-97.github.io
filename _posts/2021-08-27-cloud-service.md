@@ -10,6 +10,7 @@ comments: true
 ---
 
 ![cloud_service](https://user-images.githubusercontent.com/76419721/130995877-ba7321a9-138b-4221-90a5-177fa39909fb.png)
+
 클라우드 서비스에는 3가지 유형(IaaS, PaaS, SaaS)이 있습니다.
 
 
